@@ -1,0 +1,4 @@
+﻿  Leetcode1.cpp
+F:\C++Practice\Project1\Project1\Leetcode1.cpp(19,17): warning C4101: “ada”: 未引用的局部变量
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+F:\C++Practice\Project1\Debug\Project1.exe : fatal error LNK1120: 1 个无法解析的外部命令

@@ -1,0 +1,99 @@
+﻿  Leetcode1.cpp
+  Leetcode1108.cpp
+  Leetcode120.cpp
+  Leetcode1276.cpp
+  Leetcode1365.cpp
+  Leetcode143.cpp
+F:\CPractice\Project1\Project1\Leetcode143.cpp(43,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode1431.cpp
+  Leetcode1470.cpp
+  Leetcode1480.cpp
+  Leetcode151.cpp
+  Leetcode1512.cpp
+F:\CPractice\Project1\Project1\Leetcode1512.cpp(29,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\CPractice\Project1\Project1\Leetcode1512.cpp(45,16): error C2011: “Solution”:“class”类型重定义
+F:\CPractice\Project1\Project1\Leetcode1512.cpp(23): message : 参见“Solution”的声明
+  Leetcode1588.cpp
+  Leetcode1662.cpp
+  Leetcode1672.cpp
+F:\CPractice\Project1\Project1\Leetcode1672.cpp(38,18): warning C4101: “s”: 未引用的局部变量
+  Leetcode1678.cpp
+  Leetcode168.cpp
+  Leetcode169.cpp
+  Leetcode171.cpp
+F:\CPractice\Project1\Project1\Leetcode171.cpp(20,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\CPractice\Project1\Project1\Leetcode171.cpp(22,1): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  Leetcode172.cpp
+F:\CPractice\Project1\Project1\Leetcode172.cpp(28,1): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  Leetcode1732.cpp
+  正在生成代码...
+  正在编译...
+  Leetcode1773.cpp
+  Leetcode1780.cpp
+F:\CPractice\Project1\Project1\Leetcode1780.cpp(51,1): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+  Leetcode190.cpp
+  Leetcode191.cpp
+  Leetcode2.cpp
+  Leetcode202.cpp
+F:\CPractice\Project1\Project1\Leetcode202.cpp(36,1): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  Leetcode204.cpp
+  Leetcode206.cpp
+  Leetcode21.cpp
+  Leetcode221.cpp
+F:\CPractice\Project1\Project1\Leetcode221.cpp(25,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\CPractice\Project1\Project1\Leetcode221.cpp(26,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\CPractice\Project1\Project1\Leetcode221.cpp(69,19): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  Leetcode231.cpp
+  Leetcode238.cpp
+  Leetcode258.cpp
+F:\CPractice\Project1\Project1\Leetcode258.cpp(20,13): warning C4101: “remain”: 未引用的局部变量
+  Leetcode268.cpp
+F:\CPractice\Project1\Project1\Leetcode268.cpp(34,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode3.cpp
+  Leetcode326.cpp
+  Leetcode342.cpp
+  Leetcode344.cpp
+F:\CPractice\Project1\Project1\Leetcode344.cpp(24,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode376.cpp
+F:\CPractice\Project1\Project1\Leetcode376.cpp(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode389.cpp
+  正在生成代码...
+  正在编译...
+  Leetcode402.cpp
+F:\CPractice\Project1\Project1\Leetcode402.cpp(85,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  Leetcode413.cpp
+F:\CPractice\Project1\Project1\Leetcode413.cpp(83,1): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode441.cpp
+  Leetcode45.cpp
+  Leetcode455.cpp
+  Leetcode493.cpp
+F:\CPractice\Project1\Project1\Leetcode493.cpp(26,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode5.cpp
+  Leetcode509.cpp
+  Leetcode541.cpp
+  Leetcode55.cpp
+  Leetcode557.cpp
+  Leetcode657.cpp
+  Leetcode67.cpp
+F:\CPractice\Project1\Project1\Leetcode67.cpp(25,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\CPractice\Project1\Project1\Leetcode67.cpp(26,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode69.cpp
+  Leetcode7.cpp
+F:\CPractice\Project1\Project1\Leetcode7.cpp(50,41): warning C4101: “e”: 未引用的局部变量
+  Leetcode70.cpp
+  Leetcode709.cpp
+  Leetcode781.cpp
+  Leetcode868.cpp
+  Leetcode9.cpp
+  正在生成代码...
+  正在编译...
+  Leetcode945.cpp
+  Leetcode999.cpp
+F:\CPractice\Project1\Project1\Leetcode999.cpp(117,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\CPractice\Project1\Project1\Leetcode999.cpp(119,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Leetcode343.cpp
+  Leetcode1551.cpp
+  Leetcode914.cpp
+F:\CPractice\Project1\Project1\Leetcode914.cpp(26,13): warning C4101: “target”: 未引用的局部变量
+  Leetcode242.cpp
+  正在生成代码...

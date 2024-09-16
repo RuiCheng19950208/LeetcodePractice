@@ -1,0 +1,14 @@
+C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\bin\Debug\net8.0\LeetcodePractice.exe
+C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\bin\Debug\net8.0\LeetcodePractice.deps.json
+C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\bin\Debug\net8.0\LeetcodePractice.runtimeconfig.json
+C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\bin\Debug\net8.0\LeetcodePractice.dll
+C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\bin\Debug\net8.0\LeetcodePractice.pdb
+C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\LeetcodePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\LeetcodePractice.AssemblyInfoInputs.cache
+C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\LeetcodePractice.AssemblyInfo.cs
+C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\LeetcodePractice.csproj.CoreCompileInputs.cache
+C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\LeetcodePractice.dll
+C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\refint\LeetcodePractice.dll
+C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\LeetcodePractice.pdb
+C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\LeetcodePractice.genruntimeconfig.cache
+C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\ref\LeetcodePractice.dll

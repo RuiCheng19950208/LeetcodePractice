@@ -1,0 +1,38 @@
+class Solution(object):
+    def isPowerOfFour(self, num):
+        if num==4**0:
+            return True
+        elif num==4**1:
+            return True
+        elif num==4**2:
+            return True
+        elif num==4**3:
+            return True
+        elif num==4**4:
+            return True
+        elif num==4**5:
+            return True
+        elif num==4**6:
+            return True
+        elif num==4**7:
+            return True
+        elif num==4**8:
+            return True
+        elif num==4**9:
+            return True
+        elif num==4**10:
+            return True
+        elif num==4**11:
+            return True
+        elif num==4**12:
+            return True
+        elif num==4**13:
+            return True
+        elif num==4**14:
+            return True
+        elif num==4**15:
+            return True
+        elif num==4**16:
+            return True
+        else:
+            return False
