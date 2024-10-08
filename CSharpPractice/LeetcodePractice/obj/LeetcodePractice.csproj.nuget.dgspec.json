@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RuiChengPersonal\\CSharpPractice\\LeetcodePractice\\LeetcodePractice.csproj": {}
+    "C:\\RuiChengPersonal\\LeetCode\\CSharpPractice\\LeetcodePractice\\LeetcodePractice.csproj": {}
   },
   "projects": {
-    "C:\\RuiChengPersonal\\CSharpPractice\\LeetcodePractice\\LeetcodePractice.csproj": {
+    "C:\\RuiChengPersonal\\LeetCode\\CSharpPractice\\LeetcodePractice\\LeetcodePractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RuiChengPersonal\\CSharpPractice\\LeetcodePractice\\LeetcodePractice.csproj",
+        "projectUniqueName": "C:\\RuiChengPersonal\\LeetCode\\CSharpPractice\\LeetcodePractice\\LeetcodePractice.csproj",
         "projectName": "LeetcodePractice",
-        "projectPath": "C:\\RuiChengPersonal\\CSharpPractice\\LeetcodePractice\\LeetcodePractice.csproj",
+        "projectPath": "C:\\RuiChengPersonal\\LeetCode\\CSharpPractice\\LeetcodePractice\\LeetcodePractice.csproj",
         "packagesPath": "C:\\Users\\ruich\\.nuget\\packages\\",
-        "outputPath": "C:\\RuiChengPersonal\\CSharpPractice\\LeetcodePractice\\obj\\",
+        "outputPath": "C:\\RuiChengPersonal\\LeetCode\\CSharpPractice\\LeetcodePractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruich\\AppData\\Roaming\\NuGet\\NuGet.Config",

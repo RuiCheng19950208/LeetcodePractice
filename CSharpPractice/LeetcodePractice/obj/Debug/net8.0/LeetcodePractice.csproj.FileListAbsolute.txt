@@ -12,3 +12,11 @@ C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\refint\Leet
 C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\LeetcodePractice.pdb
 C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\LeetcodePractice.genruntimeconfig.cache
 C:\RuiChengPersonal\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\ref\LeetcodePractice.dll
+c:\RuiChengPersonal\LeetCode\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\LeetcodePractice.GeneratedMSBuildEditorConfig.editorconfig
+c:\RuiChengPersonal\LeetCode\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\LeetcodePractice.AssemblyInfoInputs.cache
+c:\RuiChengPersonal\LeetCode\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\LeetcodePractice.AssemblyInfo.cs
+c:\RuiChengPersonal\LeetCode\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\LeetcodePractice.csproj.CoreCompileInputs.cache
+c:\RuiChengPersonal\LeetCode\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\LeetcodePractice.sourcelink.json
+c:\RuiChengPersonal\LeetCode\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\LeetcodePractice.dll
+c:\RuiChengPersonal\LeetCode\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\refint\LeetcodePractice.dll
+c:\RuiChengPersonal\LeetCode\CSharpPractice\LeetcodePractice\obj\Debug\net8.0\LeetcodePractice.pdb

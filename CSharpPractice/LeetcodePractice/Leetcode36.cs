@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution36 {
     public bool IsValidSudoku(char[][] board) {
         
         Dictionary<int,HashSet<int>> colSet  = new Dictionary<int,HashSet<int>>();
