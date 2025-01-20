@@ -6,7 +6,7 @@ public:
         for(int i=0;i<s.size();i++)
         {
             
-            if(theStack.size()>0&&((s[i]=='B'&&theStack.back()=='A')||(s[i]=='D'&&theStack.back()=='C')))
+            if(theStack.size()>0 && ((s[i]=='B'&&theStack.back()=='A')||(s[i]=='D'&&theStack.back()=='C')))
             {
                 theStack.pop_back();
             }

@@ -8,7 +8,6 @@ public class Solution2326 {
     int[] curPos  = new int[2];
     int publicm;
     int publicn;
-
     private void MoveToNext(int val)
     {
         result[curPos[0]][curPos[1]] = val;
